@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2018-07-28 16:57:57
 # @Author  : cmj (451939499@qq.com)
-# @Link    : http://example.org
+# @Link    : https://github.com/xxx-032/python/blob/master/simpalcal/simplecal.py
 # @Version : simplecal1.0
 
 import tkinter
